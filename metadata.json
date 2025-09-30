@@ -1,0 +1,5 @@
+{
+  "name": "NoWorkabel",
+  "description": "An application to register and track leave or work-from-home days. It allows users to categorize leave types, input entries with dates, hours, and notes, and view summaries of used and remaining days for each category.",
+  "requestFramePermissions": []
+}
